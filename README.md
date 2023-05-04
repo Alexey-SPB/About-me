@@ -7,3 +7,4 @@ _Учусь в Нетологии на QA Engineer_
 ## Хочу много путешествовать
 
 ### Моя давняя мечта - дом у моря
+![image](https://user-images.githubusercontent.com/62237680/236332539-c9eb463a-4334-43d9-a083-59b424ec89a1.png)
